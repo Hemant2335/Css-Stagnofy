@@ -8,9 +8,9 @@ Welcome to the CSS Design Challenge, a highlight of the Tachyon Fest! This event
 Participants will create a CSS-based design following the provided specifications. This is a chance to demonstrate creativity and technical expertise.
 
 ## 📅 Event Details
-- **Date:** [Event Date]
-- **Time:** [Event Time]
-- **Location:** [Platform - e.g., Discord, Zoom, or GitHub Repo Link]
+- **Date:** 15/11/2024
+- **Time:** 8:00 pm
+- **Location:** Lt-1
 - **Eligibility:** Open to all
 
 ## 📝 Guidelines
@@ -21,7 +21,7 @@ Participants will create a CSS-based design following the provided specification
 ## 📤 Submission
 - Fork this repository, clone it, and work within your local environment.
 - Commit your code and open a pull request for submission.
-- Submit your PR by [Submission Deadline].
+- Submit your PR by 9:00 pm Same day.
 
 ## 📊 Evaluation Criteria
 - **Creativity:** How creatively the design meets the target.
@@ -37,4 +37,4 @@ A: Yes, but only if specified in the guidelines.
 A: Late submissions may not be accepted.
 
 ## 📞 Contact
-For any queries, reach out to us via [Discord link] or email at [Your Email].
+For any queries, reach out to us via email at knrt73373@gmail.com.
