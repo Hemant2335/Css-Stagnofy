@@ -1,4 +1,4 @@
-# CSS Design Challenge @ Tachyon Fest
+# CSS Stagnofy @ Tachyon Fest
 **Organized by GDSC JUET**
 
 ## 📌 Overview
